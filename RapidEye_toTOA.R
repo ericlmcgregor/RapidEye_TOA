@@ -14,7 +14,7 @@ library(satellite)
 
 
 
-setwd("C:/Users/ericm/Documents/ForGithub/RapidEye_TOA/Data")
+setwd("C:/Users/ericm/Documents/RapidEye_TOA/Data")
 
 #set desired output format (based on writeRaster())
 outputformat <- "GTiff"
